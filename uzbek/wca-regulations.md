@@ -11,11 +11,11 @@ Iltimos, tarjimalar rasmiy versiyalar emasligini unutmang, garchi ular WCA veb-s
 Agar tarjima va (joriy rasmiy) inglizcha versiya o'rtasida farq bo'lsa, inglizcha versiyadan foydalanish kerak.
 
 Ba'zi terminlar tarjima qilinmadi, sababi ularning tarjimasi o'zbekchada yo'q, yoki sababi O'zbekistondagi musobaqalarda inglizcha nomi bilan aytishadi. Bunga quyidagilar kiradi:
-Square-1, clock - boshqotirma nomi
-Delegat - WCA rasmiy vakili
-Skrambler - boshqotirmani aralashtiradigan odam
-Skrambl - boshqotirmaning aralashgan holati
-3x3x3 Multi-Blaynd (Multi-Blind) - bir nechta 3x3x3 kubni uzog'i bilan 1soat ichida ko'zni yumgan holda yig'ish yo'nalishi
+Square-1, clock - boshqotirma nomi;
+Delegat - WCA rasmiy vakili;
+Skrambler - boshqotirmani aralashtiradigan odam;
+Skrambl - boshqotirmaning aralashgan holati;
+3x3x3 Multi-Blaynd (Multi-Blind) - bir nechta 3x3x3 kubni uzog'i bilan 1soat ichida ko'zni yumgan holda yig'ish yo'nalishi;
 
 Tarjima qildi va tahrirladi: [Islombek Azimov](https://worldcubeassociation.org/persons/2022AZIM02)
 
