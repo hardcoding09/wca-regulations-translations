@@ -56,7 +56,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
 <table-of-contents>
 
 
-## <article-1><officials><mansabdor-shaxslar> 1-maqola: Mansabdor shaxslar
+## <article-1><officials><officials> 1-bob: Mansabdor shaxslar
 
 - 1a) Musobaqa WCA Delegati va tashkiliy guruhni (bir yoki bir nechta shaxslardan iborat) o'z ichiga olishi kerak, quyidagi mansabdor shaxslar bilan: hakamlar, skramblerlar va natija yozuvchilar.
     - 1a1) Bir yoki bir nechta "Yuzma-yuz" raundlari bo'lgan musobaqada (qarang: [I-maqola](regulations:article:I)) bir yoki bir nechta diktor ham bo'lishi kerak.
@@ -87,7 +87,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
 - 1l) Har bir "Yuzma-yuz" raundida diktor bo'lishi kerak.
 
 
-## <article-2><competitors><ishtirokchilar> 2-maqola: Ishtirokchilar
+## <article-2><competitors><competitors> 2-bob: Ishtirokchilar
 
 - 2a) Har qanday shaxs WCA musobaqasida qatnashishi mumkin, agar u:
     - 2a1) WCA Qoidalariga rioya qilsa.
@@ -163,7 +163,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - 2u2) Istisno: yig'indiviy vaqt chegarasi bo'lgan raundlar uchun, kech kelgan ishtirokchi WCA Delegatining ixtiyoriga ko'ra, qisqartirilgan yig'indiviy vaqt chegarasi bilan musobaqalashishi mumkin.
 
 
-## <article-3><puzzles><kublar> 3-maqola: Boshqotirmalar
+## <article-3><puzzles><puzzles> 3-bob: Boshqotirmalar
 
 - 3a) Ishtirokchilar musobaqa uchun o'z boshqotirmalarini taqdim etishlari uchun javobgardirlar.
 - 3a+) [ANIQLASH] Ishtirokchilar WCA Delegatining ixtiyoriga ko'ra, har qanday oqilona o'lchamdagi boshqotirmalardan foydalanishlari mumkin.
@@ -218,7 +218,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
 - 3m) Barcha yo'nalishdagi boshqotirmalar va boshqotirma qismlariga ruxsat beriladi, agar boshqotirmalar barcha WCA Qoidalariga mos kelsa.
 
 
-## <article-4><scrambling><aralashtirish> 4-maqola: Aralashtirish
+## <article-4><scrambling><scrambling> 4-bob: Aralashtirish
 
 - 4a) Skrambler aralashtirish ketma-ketliklarini yechilgan boshqotirmalarga qo'llaydi.
     - 4a1) Istisno: 5x5x5 Kub, 6x6x6 Kub, 7x7x7 Kub va Megaminx uchun qo'shimcha urinishlar uchun aralashtirish ketma-ketligi WCA Delegatining ixtiyoriga ko'ra, yechilmagan boshqotirmaga qo'llanilishi mumkin. Bu istisno faqat qo'shimcha urinishlar uchun aralashtirish ketma-ketliklariga taalluqlidir. Aralashtirish ketma-ketligini yechilmagan boshqotirmaga qo'llashda, aralashtirish har qanday yo'nalishda boshlanishi mumkin, [4d Qoidasidagi](regulations:regulation:4d) odatiy talablar qo'llanilmaydi.
@@ -260,7 +260,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - 4g3+) [TAVSIYA] Milliy Chempionat, Qit'a Chempionati yoki Jahon Chempionatining final raundidagi barcha Boshqotirmalar ikkinchi skrambler tomonidan tekshirilishi kerak.
 
 
-## <article-5><puzzle-defects><kub-nasoslari> 5-maqola: Boshqotirma nosozliklari
+## <article-5><puzzle-defects><puzzle-defects> 5-bob: Boshqotirma nosozliklari
 
 - 5a) Boshqotirma nosozliklariga misollar: qismlarning ochilishi, o'z o'rnida burilgan qismlar va ajralgan vintlar/qopqoqlar/stikerlar.
 - 5b) Agar urinish davomida boshqotirma nosozligi yuz bersa, ishtirokchi nosozlikni tuzatish va urinishni davom ettirish yoki urinishni to'xtatish o'rtasida tanlov qilishi mumkin.
@@ -292,7 +292,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - 5d3) Boshqotirma nosozligini qasddan keltirib chiqarish uchun jazo: urinishni diskvalifikatsiya qilish (DNF).
 
 
-## <article-7><environment><muhit> 7-maqola: Muhit
+## <article-7><environment><environment> 7-bob: Muhit
 
 - 7b) Tomoshabinlar boshqotirmalar yechish stantsiyalari ishlatilayotganda ulardan kamida 1.5 metr uzoqlikda turishlari kerak.
 - 7c) Musobaqa hududining yoritilishiga alohida e'tibor berilishi kerak. Yoritish neytral bo'lishi kerak, shunda ishtirokchilar boshqotirmalardagi ranglarni osongina farqlay oladilar.
@@ -311,9 +311,9 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - 7h2+) [QO'SHIMCHA] Ishtirokchi Kutish Hududida urinishlar oralig'ida kutayotgan ishtirokchilar sahnadagi ishtirokchilarning boshqotirmalarini ko'ra olmasligi kerak.
 
 
-## <article-9><events><yo'nalishlar> 9-maqola: yo'nalishlar
+## <article-9><events><events> 9-bob: Yo'nalishlar
 
-- 9a) WCA qismlar guruhlarini burish orqali boshqariladigan, odatda "burma boshqotirmalar" deb nomlanuvchi mexanik boshqotirmalar uchun musobaqalarni tartibga soladi.
+- 9a) WCA boshqotirmalar qismlarini burish orqali boshqariladigan, odatda "burma boshqotirmalar" deb nomlanuvchi mexanik boshqotirmalar uchun musobaqalarni tartibga soladi.
 - 9b) WCAning rasmiy yo'nalishlari:
 - 9b++) [QO'SHIMCHA] [9b Qoidasida](regulations:regulation:9b) ko'rsatilganlardan tashqari yo'nalishlar musobaqa davomida o'tkazilishi mumkin, lekin ular norasmiy hisoblanadi va shuning uchun musobaqaning rasmiy natijalariga kiritilmaydi.
     - 9b1) 3x3x3 Kub, 2x2x2 Kub, 4x4x4 Kub, 5x5x5 Kub, 3x3x3 Bir Qo'l, Clock, Megaminx, Pyraminx, Skewb va Square-1.
@@ -430,7 +430,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
         - 9v5a) Birinchi raundda natijalari bo'lmagan yoki faqat DNF va/yoki DNS natijalariga ega ishtirokchilar ikkinchi raundga o'tish huquqiga ega.
 
 
-## <article-10><solved-state><yechilgan-holat> 10-maqola: Yechilgan holat
+## <article-10><solved-state><solved-state> 10-bob: Yechilgan holat
 
 - 10b) Taymer to'xtatilgandan keyin Boshqotirmaning faqat tinch holati hisobga olinadi.
 - 10c) Yechish oxirida Boshqotirma har qanday yo'nalishda bo'lishi mumkin.
@@ -453,7 +453,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - 10i2) Clockning yechilgan holatiga bo'shashgan yoki chiqib ketgan pin qopqoqlari ta'sir qilmaydi.
 
 
-## <article-11><incidents><hodisalar> 11-maqola: Hodisalar
+## <article-11><incidents><incidents> 11-bob: Hodisalar
 
 - 11a) Hodisalar quyidagilarni o'z ichiga oladi:
     - 11a1) Mansabdor shaxslar yoki ishtirokchilar tomonidan yo'nalish tartib-qoidalarining noto'g'ri bajarilishi.
@@ -518,7 +518,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - 11l1) Urinish natijasi keyinchalik o'zgartirilishi mumkin, lekin bu ochko g'olibini o'zgartirmaydi.
 
 
-## <article-12><notation><notatsiya> 12-maqola: Notatsiya
+## <article-12><notation><notation> 12-bob: Notatsiya
 
 - 12a) NxNxN Kublar uchun notatsiya:
     - 12a1) Yuz Harakatlari (tashqi qatlam):
@@ -569,7 +569,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - 12i1) Istisno: Clock uchun, faqat ichki soat yuzlari holatining o'zgarishi harakat deb hisoblanadi. Pinlar holatining o'zgarishi harakat deb hisoblanmaydi.
 
 
-## <article-A><speedsolving><tezlikni-yechish> A-maqola: Tezlikni yechish
+## <article-A><speedsolving><speedsolving> A bob: Tezlikni yechish
 
 - A1) Tezlikni yechish urinishlari quyidagi tartib-qoidalarga rioya qilishi kerak.
     - A1a) Tashkiliy guruh har bir raundga kamida bitta yo'nalishdagi vaqt chegarasini (har bir urinish uchun vaqt chegarasi va/yoki yig'indiviy vaqt chegarasi) qo'llashi kerak.
@@ -703,7 +703,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - A7g++++) [ANIQLASH] Ishtirokchi, agar u yangi ishtirokchi bo'lsa, muayyan yo'nalishda birinchi marta qatnashayotgan bo'lsa yoki muayyan yo'nalishda uzoq vaqt davomida qatnashmagan bo'lsa, tajribasiz deb hisoblanishi mumkin. Tajribasizlik hodisa bilan bog'liq bo'lishi kerak.
 
 
-## <article-B><blindfolded><kor-korona-yechish> B-maqola: Ko'r-ko'rona yechish
+## <article-B><blindfolded><blindfolded> B bob: Ko'zni yumgan holda yechish
 
 - B1) [A-maqolada](regulations:article:A) (Tezlikni yechish) tasvirlangan standart tezlikni yechish tartib-qoidalariga amal qilinadi. [A-maqoladagi](regulations:article:A) tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
 - B1+) [ESLATMA] Ishtirokchi o'xshash qismlarni ajratib turadigan teksturalar, belgilar yoki boshqa xususiyatlarga ega bo'lmagan Boshqotirmadan foydalanishi kerak (qarang: [3k Qoidasi](regulations:regulation:3k)). Bu Ko'r-ko'rona Yechish uchun alohida e'tibor berilishi kerak. Istisno: 3x3x3 Ko'r-ko'rona uchun, Boshqotirma [3l Qoidasi](regulations:regulation:3l) tomonidan ruxsat etilgan har qanday logotiplarga ega bo'lishi mumkin.
@@ -744,7 +744,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - B5c) Agar ishtirokchi Boshqotirmaga tegmasa, ular taymerni to'xtatishdan oldin ko'r-ko'rona bog'ichini yechishlari mumkin. Ular yechish oxirigacha Boshqotirmaga tegmasliklari kerak. Boshqotirmaga tegish uchun jazo: urinishni diskvalifikatsiya qilish (DNF).
 
 
-## <article-C><one-handed><bir-qol-yechish> C-maqola: Bir Qo'l bilan yechish
+## <article-C><one-handed><one-handed> C bob: Bir Qo'l bilan yechish
 
 - C1) [A-maqolada](regulations:article:A) (Tezlikni yechish) tasvirlangan standart tezlikni yechish tartib-qoidalariga amal qilinadi. [A-maqoladagi](regulations:article:A) tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
     - C1b) Yechish davomida ishtirokchi Boshqotirmani boshqarish uchun faqat bitta qo'ldan foydalanishi kerak. Jazo: urinishni diskvalifikatsiya qilish (DNF).
@@ -756,7 +756,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - C1c) Yechish davomida, ishtirokchi bir qo'li bilan kubni boshqarganidan so'ng, boshqa qo'li bilan kubni boshqarmasligi kerak. Jazo: urinishni diskvalifikatsiya qilish (DNF).
 
 
-## <article-E><fewest-moves><minimal-harakatlar-yechish> E-maqola: Minimal Harakatlar yechish
+## <article-E><fewest-moves><fewest-moves> E bob: Minimal Harakatlar soni yo'nalishi
 
 - E2) 3x3x3 Minimal Harakatlar uchun tartib-qoidalar:
     - E2a) Hakam barcha ishtirokchilarga aralashtirish ketma-ketligi va qog'ozni tarqatadi. Hakam keyin sekundomerni ishga tushiradi va "BOSHLANDI" deb aytadi.
@@ -807,7 +807,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - E6c) Aralashtirish haqidagi ma'lumot qo'shilmoqchi bo'lgan ishtirokchiga ma'lum bo'lish xavfi mavjud bo'lsa.
 
 
-## <article-H><multiple-blindfolded><kop-kor-korona-yechish> H-maqola: Ko'p Ko'r-ko'rona yechish
+## <article-H><multiple-blindfolded><multiple-blindfolded> H bob: Multi-Blaynd yo'nalish
 
 - H1) [B-maqolada](regulations:article:B) (Ko'r-ko'rona yechish) tasvirlangan standart ko'r-ko'rona yechish tartib-qoidalariga amal qilinadi. [B-maqoladagi](regulations:article:B) tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
 - H1+) [QO'SHIMCHA] Agar urinish davomida takroriy aralashtirishga ega Boshqotirma topilsa, WCA Delegatining ixtiyoriga ko'ra, Boshqotirma boshqa aralashtirish ketma-ketligi yordamida qayta aralashtirilishi mumkin.
@@ -826,7 +826,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
 - H2) Ishtirokchi WCA Delegatining ixtiyoriga ko'ra, yuza uchun tekis qoplama (masalan, gilamcha yoki mato) o'zi ta'minlashi mumkin. Agar ishtirokchi buni xohlasa, so'rov Boshqotirmalar sonini topshirish bilan bir vaqtda amalga oshirilishi kerak (qarang: [H1a Qoidasi](regulations:regulation:H1a)).
 
 
-## <article-I><headtohead><yuzma-yuz-yechish> I-maqola: Yuzma-yuz yechish
+## <article-I><headtohead><headtohead> I bob: Yuzma-yuz yechish
 
 - I1) Saralash va tartiblash:
     - I1a) "Yuzma-yuz" raundidagi mavjud o'rinlar soni quyidagilardan biri bo'lishi kerak: 4, 8, 12 yoki 16.
