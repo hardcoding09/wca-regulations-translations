@@ -15,7 +15,7 @@ Square-1, clock - boshqotirma nomi
 Delegat - WCA rasmiy vakili
 Skrambler - boshqotirmani aralashtiradigan odam
 Skrambl - boshqotirmaning aralashgan holati
-3x3x3 Multi-Blaynd (Multi-Blind) - bir nechta 3x3x3 kubni uzog'i bilan 1soat ichida yig'ish yo'nalishi
+3x3x3 Multi-Blaynd (Multi-Blind) - bir nechta 3x3x3 kubni uzog'i bilan 1soat ichida ko'zni yumgan holda yig'ish yo'nalishi
 
 Tarjima qildi va tahrirladi: [Islombek Azimov](https://worldcubeassociation.org/persons/2022AZIM02)
 
