@@ -43,7 +43,7 @@ Ko'proq ma'lumot berish uchun, ba'zi Qoidalar quyidagi yorliqlardan biri yordami
 
 - <label>[QO'SHIMCHA] Boshqa Qoidalarni to'ldiruvchi qo'shimcha ma'lumot.
 - <label>[ANIQLASH] Qoidalarning talqini haqidagi mumkin bo'lgan savollarga javob beradigan ma'lumot.
-- <label>[TUSHUNTIRISH] Qoidalarning maqsadini ANIQLASHtiruvchi ma'lumot.
+- <label>[TUSHUNTIRISH] Qoidalarning maqsadini aniqlashtiruvchi ma'lumot.   
 - <label>[TAVSIYA] Qat'iy majburiy bo'lmagan, lekin iloji bo'lsa bajarilishi kerak bo'lgan narsa.
 - <label>[ESLATMA] Boshqa Qoidalar tomonidan ko'rib chiqilishi mumkin bo'lgan, lekin ahamiyati tufayli takrorlashga arziydigan ma'lumot.
 - <label>[MISOL] Qoidani qanday qo'llashga misol.
