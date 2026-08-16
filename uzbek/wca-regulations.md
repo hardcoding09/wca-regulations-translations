@@ -430,17 +430,17 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
         - 9v5a) Birinchi raundda natijalari bo'lmagan yoki faqat DNF va/yoki DNS natijalariga ega ishtirokchilar ikkinchi raundga o'tish huquqiga ega.
 
 
-## <article-10><solved-state><solved-state> 10-bob: Yechilgan holat
+## <article-10><solved-state><solved-state> 10-bob: Yig'ilgan holat
 
 - 10b) Taymer to'xtatilgandan keyin boshqotirmaning faqat tinch holati hisobga olinadi.
 - 10c) Yechish oxirida boshqotirma har qanday yo'nalishda bo'lishi mumkin.
 - 10d) Boshqotirmaning barcha qismlari boshqotirmaga jismonan biriktirilgan va kerakli joylariga to'liq joylashtirilgan bo'lishi kerak. Istisno: qarang: [5b5 Qoidasi](regulations:regulation:5b5).
-- 10e) Boshqotirma, barcha rangli qismlar qayta yig'ilgan va barcha qismlar quyida ko'rsatilgan chegaralar doirasida tekislangan bo'lsa, yechilgan hisoblanadi:
-    - 10e1) Boshqotirmaning har bir ikkita qo'shni qismi (masalan, boshqotirmaning ikkita parallel, qo'shni qatlami) [10f Qoidasida](regulations:regulation:10f) tasvirlangan chegaradan ko'proq noto'g'ri tekislangan bo'lsa, boshqotirma yechish uchun yana bitta qo'shimcha harakat talab qiladi deb hisoblanadi (qarang: [12-maqoladagi](regulations:article:12) "Tashqi Blok Burilish Metrikasi").
+- 10e) Boshqotirma, barcha rangli qismlar qayta yig'ilgan va barcha qismlar quyida ko'rsatilgan chegaralar doirasida tekislangan bo'lsa, yig'ilgan hisoblanadi:
+    - 10e1) Boshqotirmaning har bir ikkita qo'shni qismi (masalan, boshqotirmaning ikkita parallel, qo'shni qatlami) [10f Qoidasida](regulations:regulation:10f) tasvirlangan chegaradan ko'proq noto'g'ri tekislangan bo'lsa, boshqotirmani yig'ish uchun yana bitta qo'shimcha harakat talab qiladi deb hisoblanadi (qarang: [12-maqoladagi](regulations:article:12) "Tashqi Blok Burilish Metrikasi").
     - 10e1+) [ANIQLASH] Square-1 uchun, boshqotirmaning shakl o'zgartirish xususiyati tufayli, [10f4 Qoidasida](regulations:regulation:10f4) aniqlangan noto'g'ri tekislashlar uchun metrika, aralashtirish dasturi tomonidan qo'llaniladigan va [12c4 Qoidasida](regulations:regulation:12c4) aniqlangan notatsiya uchun metrikadan farq qiladi.
-    - 10e2) Agar boshqotirmani yechilgan holatiga keltirish uchun boshqa harakatlar talab etilmasa, boshqotirma hech qanday jarimasiz yechilgan deb hisoblanadi.
-    - 10e3) Agar bitta harakat talab etilsa, boshqotirma vaqt jazosi (+2 soniya jarima) bilan yechilgan deb hisoblanadi.
-    - 10e4) Agar bir nechta harakat talab etilsa, boshqotirma yechilmagan (DNF) deb hisoblanadi.
+    - 10e2) Agar boshqotirmani yig'ilgan holatiga keltirish uchun boshqa harakatlar talab etilmasa, boshqotirma hech qanday jarimasiz yechilgan deb hisoblanadi.
+    - 10e3) Agar bitta harakat talab etilsa, boshqotirma vaqt jazosi (+2 soniya jarima) bilan yig'ilgan deb hisoblanadi.
+    - 10e4) Agar bir nechta harakat talab etilsa, boshqotirma yig'ilmagan (DNF) deb hisoblanadi.
 - 10f) Boshqotirmalar uchun maqbul noto'g'ri tekislash chegaralari:
 - 10f+) [TUSHUNTIRISH] Noto'g'ri tekislash chegaralari boshqotirmaning bir holati (jazosiz) va bir harakat uzoqlikdagi holat o'rtasida tabiiy chegara bo'lishi uchun tanlangan.
     - 10f1) NxNxN Kublar: ko'pi bilan 45 daraja.
@@ -448,9 +448,9 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - 10f3) Pyraminx va Skewb: ko'pi bilan 60 daraja.
     - 10f4) Square-1: ko'pi bilan 45 daraja (U/D) yoki 90 daraja (/).
     - 10f4+) [ANIQLASH] Yechish oxirida noto'g'ri tekislash holatida harakatlarni hisoblashda, X va Y alohida ko'rib chiqiladi. Misol: (5, 1) bitta noto'g'ri tekislash deb hisoblanadi, (5, 5) ikkita noto'g'ri tekislash deb hisoblanadi.
-- 10i) Clockning yechilgan holatiga barcha o'n sakkizta ichki soat yuzi 12 soatni ko'rsatganda erishiladi.
+- 10i) Clockning yig'ilgan holatiga barcha o'n sakkizta ichki soat yuzi 12 soatni ko'rsatganda erishiladi.
     - 10i1) Muayyan soat belgisiga aniq ko'rsatmaydigan ichki soat yuzlari eng yaqin soat belgisiga ko'rsatayotgan deb hisoblanadi.
-    - 10i2) Clockning yechilgan holatiga bo'shashgan yoki chiqib ketgan pin qopqoqlari ta'sir qilmaydi.
+    - 10i2) Clockning yig'ilgan holatiga bo'shashgan yoki chiqib ketgan pin qopqoqlari ta'sir qilmaydi.
 
 
 ## <article-11><incidents><incidents> 11-bob: Hodisalar
