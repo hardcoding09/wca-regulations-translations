@@ -432,17 +432,17 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
 
 ## <article-10><solved-state><solved-state> 10-bob: Yechilgan holat
 
-- 10b) Taymer to'xtatilgandan keyin Boshqotirmaning faqat tinch holati hisobga olinadi.
-- 10c) Yechish oxirida Boshqotirma har qanday yo'nalishda bo'lishi mumkin.
-- 10d) Boshqotirmaning barcha qismlari Boshqotirmaga jismonan biriktirilgan va kerakli joylariga to'liq joylashtirilgan bo'lishi kerak. Istisno: qarang: [5b5 Qoidasi](regulations:regulation:5b5).
+- 10b) Taymer to'xtatilgandan keyin boshqotirmaning faqat tinch holati hisobga olinadi.
+- 10c) Yechish oxirida boshqotirma har qanday yo'nalishda bo'lishi mumkin.
+- 10d) Boshqotirmaning barcha qismlari boshqotirmaga jismonan biriktirilgan va kerakli joylariga to'liq joylashtirilgan bo'lishi kerak. Istisno: qarang: [5b5 Qoidasi](regulations:regulation:5b5).
 - 10e) Boshqotirma, barcha rangli qismlar qayta yig'ilgan va barcha qismlar quyida ko'rsatilgan chegaralar doirasida tekislangan bo'lsa, yechilgan hisoblanadi:
-    - 10e1) Boshqotirmaning har bir ikkita qo'shni qismi (masalan, Boshqotirmaning ikkita parallel, qo'shni qatlami) [10f Qoidasida](regulations:regulation:10f) tasvirlangan chegaradan ko'proq noto'g'ri tekislangan bo'lsa, Boshqotirma yechish uchun yana bitta qo'shimcha harakat talab qiladi deb hisoblanadi (qarang: [12-maqoladagi](regulations:article:12) "Tashqi Blok Burilish Metrikasi").
-    - 10e1+) [ANIQLASH] Square-1 uchun, Boshqotirmaning shakl o'zgartirish xususiyati tufayli, [10f4 Qoidasida](regulations:regulation:10f4) aniqlangan noto'g'ri tekislashlar uchun metrika, aralashtirish dasturi tomonidan qo'llaniladigan va [12c4 Qoidasida](regulations:regulation:12c4) aniqlangan notatsiya uchun metrikadan farq qiladi.
-    - 10e2) Agar Boshqotirmani yechilgan holatiga keltirish uchun boshqa harakatlar talab etilmasa, Boshqotirma hech qanday jazosiz yechilgan deb hisoblanadi.
-    - 10e3) Agar bitta harakat talab etilsa, Boshqotirma vaqt jazosi (+2 soniya) bilan yechilgan deb hisoblanadi.
-    - 10e4) Agar bir nechta harakat talab etilsa, Boshqotirma yechilmagan (DNF) deb hisoblanadi.
+    - 10e1) Boshqotirmaning har bir ikkita qo'shni qismi (masalan, boshqotirmaning ikkita parallel, qo'shni qatlami) [10f Qoidasida](regulations:regulation:10f) tasvirlangan chegaradan ko'proq noto'g'ri tekislangan bo'lsa, boshqotirma yechish uchun yana bitta qo'shimcha harakat talab qiladi deb hisoblanadi (qarang: [12-maqoladagi](regulations:article:12) "Tashqi Blok Burilish Metrikasi").
+    - 10e1+) [ANIQLASH] Square-1 uchun, boshqotirmaning shakl o'zgartirish xususiyati tufayli, [10f4 Qoidasida](regulations:regulation:10f4) aniqlangan noto'g'ri tekislashlar uchun metrika, aralashtirish dasturi tomonidan qo'llaniladigan va [12c4 Qoidasida](regulations:regulation:12c4) aniqlangan notatsiya uchun metrikadan farq qiladi.
+    - 10e2) Agar boshqotirmani yechilgan holatiga keltirish uchun boshqa harakatlar talab etilmasa, boshqotirma hech qanday jarimasiz yechilgan deb hisoblanadi.
+    - 10e3) Agar bitta harakat talab etilsa, boshqotirma vaqt jazosi (+2 soniya jarima) bilan yechilgan deb hisoblanadi.
+    - 10e4) Agar bir nechta harakat talab etilsa, boshqotirma yechilmagan (DNF) deb hisoblanadi.
 - 10f) Boshqotirmalar uchun maqbul noto'g'ri tekislash chegaralari:
-- 10f+) [TUSHUNTIRISH] Noto'g'ri tekislash chegaralari Boshqotirmaning bir holati (jazosiz) va bir harakat uzoqlikdagi holat o'rtasida tabiiy chegara bo'lishi uchun tanlangan.
+- 10f+) [TUSHUNTIRISH] Noto'g'ri tekislash chegaralari boshqotirmaning bir holati (jazosiz) va bir harakat uzoqlikdagi holat o'rtasida tabiiy chegara bo'lishi uchun tanlangan.
     - 10f1) NxNxN Kublar: ko'pi bilan 45 daraja.
     - 10f2) Megaminx: ko'pi bilan 36 daraja.
     - 10f3) Pyraminx va Skewb: ko'pi bilan 60 daraja.
@@ -703,7 +703,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - A7g++++) [ANIQLASH] Ishtirokchi, agar u yangi ishtirokchi bo'lsa, muayyan yo'nalishda birinchi marta qatnashayotgan bo'lsa yoki muayyan yo'nalishda uzoq vaqt davomida qatnashmagan bo'lsa, tajribasiz deb hisoblanishi mumkin. Tajribasizlik hodisa bilan bog'liq bo'lishi kerak.
 
 
-## <article-B><blindfolded><blindfolded> B bob: Ko'zni yumgan holda yechish
+## <article-B><blindfolded><blindfoldedsolving> B bob: Ko'zni yumgan holda yechish
 
 - B1) [A-maqolada](regulations:article:A) (Tezlikni yechish) tasvirlangan standart tezlikni yechish tartib-qoidalariga amal qilinadi. [A-maqoladagi](regulations:article:A) tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
 - B1+) [ESLATMA] Ishtirokchi o'xshash qismlarni ajratib turadigan teksturalar, belgilar yoki boshqa xususiyatlarga ega bo'lmagan Boshqotirmadan foydalanishi kerak (qarang: [3k Qoidasi](regulations:regulation:3k)). Bu Ko'r-ko'rona Yechish uchun alohida e'tibor berilishi kerak. Istisno: 3x3x3 Ko'r-ko'rona uchun, Boshqotirma [3l Qoidasi](regulations:regulation:3l) tomonidan ruxsat etilgan har qanday logotiplarga ega bo'lishi mumkin.
@@ -744,7 +744,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - B5c) Agar ishtirokchi Boshqotirmaga tegmasa, ular taymerni to'xtatishdan oldin ko'r-ko'rona bog'ichini yechishlari mumkin. Ular yechish oxirigacha Boshqotirmaga tegmasliklari kerak. Boshqotirmaga tegish uchun jazo: urinishni diskvalifikatsiya qilish (DNF).
 
 
-## <article-C><one-handed><one-handed> C bob: Bir Qo'l bilan yechish
+## <article-C><one-handed><onehandedsolving> C bob: Bir Qo'l bilan yechish
 
 - C1) [A-maqolada](regulations:article:A) (Tezlikni yechish) tasvirlangan standart tezlikni yechish tartib-qoidalariga amal qilinadi. [A-maqoladagi](regulations:article:A) tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
     - C1b) Yechish davomida ishtirokchi Boshqotirmani boshqarish uchun faqat bitta qo'ldan foydalanishi kerak. Jazo: urinishni diskvalifikatsiya qilish (DNF).
@@ -807,7 +807,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - E6c) Aralashtirish haqidagi ma'lumot qo'shilmoqchi bo'lgan ishtirokchiga ma'lum bo'lish xavfi mavjud bo'lsa.
 
 
-## <article-H><multiple-blindfolded><multiple-blindfolded> H bob: Multi-Blaynd yo'nalish
+## <article-H><multiple-blindfolded><multipleblindfoldedsolving> H bob: Multi-Blaynd yo'nalish
 
 - H1) [B-maqolada](regulations:article:B) (Ko'r-ko'rona yechish) tasvirlangan standart ko'r-ko'rona yechish tartib-qoidalariga amal qilinadi. [B-maqoladagi](regulations:article:B) tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
 - H1+) [QO'SHIMCHA] Agar urinish davomida takroriy aralashtirishga ega Boshqotirma topilsa, WCA Delegatining ixtiyoriga ko'ra, Boshqotirma boshqa aralashtirish ketma-ketligi yordamida qayta aralashtirilishi mumkin.
@@ -826,7 +826,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
 - H2) Ishtirokchi WCA Delegatining ixtiyoriga ko'ra, yuza uchun tekis qoplama (masalan, gilamcha yoki mato) o'zi ta'minlashi mumkin. Agar ishtirokchi buni xohlasa, so'rov Boshqotirmalar sonini topshirish bilan bir vaqtda amalga oshirilishi kerak (qarang: [H1a Qoidasi](regulations:regulation:H1a)).
 
 
-## <article-I><headtohead><headtohead> I bob: Yuzma-yuz yechish
+## <article-I><headtohead><headtoheadsolving> I bob: Yuzma-yuz yechish
 
 - I1) Saralash va tartiblash:
     - I1a) "Yuzma-yuz" raundidagi mavjud o'rinlar soni quyidagilardan biri bo'lishi kerak: 4, 8, 12 yoki 16.
