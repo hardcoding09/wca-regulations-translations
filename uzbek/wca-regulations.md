@@ -52,7 +52,7 @@ Ko'proq ma'lumot berish uchun, ba'zi Qoidalar quyidagi yorliqlardan biri yordami
 
 ## <contents> [Mundarija](regulations:contents)
 
-Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganligi sababli, raqamlashda bo'shliqlar bo'lishi mumkin.
+Eslatma: Qoidalar o'chirilganda, bob va qoida raqamlari qayta tayinlanmaganligi sababli, raqamlashda bo'shliqlar bo'lishi mumkin.
 
 <table-of-contents>
 
@@ -60,7 +60,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
 ## <article-1><officials><officials> 1-bob: Mansabdor shaxslar
 
 - 1a) Musobaqa WCA Delegati va tashkiliy guruhni (bir yoki bir nechta shaxslardan iborat) o'z ichiga olishi kerak, quyidagi mansabdor shaxslar bilan: hakamlar, skramblerlar va natija yozuvchilar.
-    - 1a1) Bir yoki bir nechta "Yuzma-yuz" raundlari bo'lgan musobaqada (qarang: [I-maqola](regulations:article:I)) bir yoki bir nechta diktor ham bo'lishi kerak.
+    - 1a1) Bir yoki bir nechta "Yuzma-yuz" raundlari bo'lgan musobaqada (qarang: [I bob](regulations:article:I)) bir yoki bir nechta diktor ham bo'lishi kerak.
 - 1b) Musobaqaning tashkiliy guruhi musobaqa oldidan, davomida va undan keyingi logistika uchun javobgardir.
 - 1c) WCA Delegati musobaqaning WCA Qoidalari va tegishli WCA siyosatlari yoki talablariga rioya qilishini ta'minlash uchun javobgardir. WCA Delegati o'z nomidan muayyan vazifalarni bajarish uchun tashkiliy guruhning boshqa a'zolarini tayinlashi mumkin, lekin bu vazifalarning qanday bajarilganligi uchun yakuniy javobgar hisoblanadi.
 - 1c+) [ANIQLASH] Agar musobaqaga uchun bir nechta WCA Delegatlari tayinlangan bo'lsa, "WCA Delegati" ulardan birortasini anglatadi. "WCA Delegati" shuningdek, musobaqa uchun WCA Delegatining tegishli vazifasi uchun WCA Delegati tomonidan tayinlangan har qanday shaxsni ham anglatadi.
@@ -229,7 +229,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
 - 4b++) [ESLATMA] Agar WCA Delegati musobaqa davomida har qanday qo'shimcha aralashtirish ketma-ketliklarini yaratsa, aralashtirish ketma-ketliklari saqlanishi kerak.
     - 4b1) Yaratilgan aralashtirish ketma-ketliklari musobaqadan oldin ko'rib chiqilmasligi kerak va WCA Delegati tomonidan hech qanday tarzda filtrlanmasligi yoki tanlanmasligi kerak.
     - 4b1+) [ESLATMA] WCA Delegati hech qachon filtrlash maqsadida boshqa ketma-ketliklarni almashtirish uchun aralashtirish ketma-ketliklarini qayta yaratmasligi kerak. Masalan, musobaqa uchun aralashtirish ketma-ketliklariga bir ko'z tashlab, "adolatliroq" aralashtirish ketma-ketliklarini yaratish uchun butun to'plamni qayta yaratishga ruxsat berilmaydi.
-    - 4b2) Guruh uchun aralashtirish ketma-ketliklari o'sha guruh boshlanishidan oldin faqat WCA Delegatiga, va u tugamagunicha faqat WCA Delegati va guruh uchun skramblerlarga mavjud bo'lishi kerak. Istisno: 3x3x3 Minimal Harakatlar uchun, ishtirokchilar aralashtirish ketma-ketliklarini raund davomida olishadi (qarang: [E-maqola](regulations:article:E)).
+    - 4b2) Guruh uchun aralashtirish ketma-ketliklari o'sha guruh boshlanishidan oldin faqat WCA Delegatiga, va u tugamagunicha faqat WCA Delegati va guruh uchun skramblerlarga mavjud bo'lishi kerak. Istisno: 3x3x3 Minimal Harakatlar uchun, ishtirokchilar aralashtirish ketma-ketliklarini raund davomida olishadi (qarang: [E bob](regulations:article:E)).
     - 4b2+) [ANIQLASH] Umuman olganda, barcha rasmiy aralashtirish ketma-ketliklari musobaqa davomida sir saqlanishi va musobaqa tugagandan so'ng birgalikda e'lon qilinishi kerak. Ba'zi hollarda (masalan, jahon rekordlari), tashkiliy guruh muayyan aralashtirish ketma-ketliklarini guruh tugagandan so'ng tezroq e'lon qilishni xohlashi mumkin.
     - 4b2++) [QO'SHIMCHA] Musobaqa tashkilotchilari skramblerlar, aralashtirish ketma-ketliklari va qisman/to'liq aralashtirilgan kublar ishtirokchilardan vizual ravishda ajratilganligini ta'minlashlari kerak (qarang: [A2c Qoidasi](regulations:regulation:A2c)). Masalan, skramblerlar devor orqasida joylashgan bo'lishi mumkin yoki skramblerlar o'tirgan stol atrofiga qo'yilgan etarlicha baland to'siq (masalan, karton to'siq) ishtirokchilar skramblerlar aralashtirish ketma-ketliklarini qo'llayotganda boshqotirmalarni ko'ra olmasligi uchun ishlatilishi mumkin.
         - 4b2a) Musobaqa uchun tayinlangan WCA Delegati aralashtirish ketma-ketliklariga kelajakdagi guruhlar uchun kirishni faqat tashkiliy guruhning boshqa a'zolariga, agar ular vaqtincha mavjud bo'lmasa (masalan, o'zlari musobaqalashayotgan bo'lsa), berishi kerak va bu holda boshqalarga minimal mumkin bo'lgan miqdordagi aralashtirishlarga kirishni berishi kerak.
@@ -335,7 +335,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - 9b6) 4x4x4 Ko'zni bog'lagan holda va 5x5x5 Ko'zni bog'lagan holda.
         - 9b6a) Ushbu yo'nalishlar uchun to'liq raund formati: "3 dan Eng Yaxshi".
         - 9b6b) Ushbu yo'nalishlar uchun, WCA musobaqa formatidan tashqari, "3 dan O'rtacha" reytinglari va rekordlarini ham tan oladi. "3 dan O'rtacha" statistikasi ishtirokchining "3 dan Eng Yaxshi" raunddagi reytingiga ta'sir qilmaydi, bu eng yaxshi natijaga asoslanadi (qarang: [9f6 Qoidasi](regulations:regulation:9f6) va [9f12 Qoidasi](regulations:regulation:9f12)).
-    - 9b7) "Yuzma-yuz" formati (qarang: [I-maqola](regulations:article:I)) quyidagicha mavjud:
+    - 9b7) "Yuzma-yuz" formati (qarang: [I bob](regulations:article:I)) quyidagicha mavjud:
         - 9b7a) "Yuzma-yuz" formati quyidagi yo'nalishlar uchun mavjud: 3x3x3 Kub, 4x4x4 Kub, 3x3x3 Ko'zni bog'lagan holda va 3x3x3 Bir Qo'l.
         - 9b7b) "Yuzma-yuz" formatidan faqat yo'nalishning final raundi uchun foydalanish mumkin.
 - 9f) Raundning natijalari quyidagicha o'lchanadi:
@@ -363,7 +363,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - 9f14) "3 dan O'rtacha" va "5 dan O'rtacha" formatlari uchun, agar ikki yoki undan ortiq ishtirokchi bir xil o'rtacha/o'rtacha natijalarga erishsa, reytinglar har bir ishtirokchining eng yaxshi urinishiga asoslanib baholanadi, bunda "yaxshiroq" - kichikroq qayd etilgan natijadir.
     - 9f15) Bir xil natijaga erishgan ishtirokchilar bir xil reytingni oladilar.
     - 9f16) "Yuzma-yuz" raundlari uchun:
-        - 9f16a) Ishtirokchilarga [I-maqolada](regulations:article:I) tasvirlanganidek urinishlar ajratiladi.
+        - 9f16a) Ishtirokchilarga [I-bobda](regulations:article:I) tasvirlanganidek urinishlar ajratiladi.
         - 9f16b) Final Match g'olibi birinchi o'rinni egallaydi. Final Match yutqazgani ikkinchi o'rinni egallaydi. Uchinchi O'rin Match g'olibi uchinchi o'rinni egallaydi. Uchinchi O'rin Match yutqazgani to'rtinchi o'rinni egallaydi. Boshqa barcha ishtirokchilar erishilgan eng yuqori bosqichga qarab reytinglanadi, ularning raund ichidagi eng yaxshi yagona natijasi tay-breyk sifatida ishlaydi.
         - 9f16b+) [MISOL] Chorak Final bosqichida mag'lub bo'lgan to'rt nafar ishtirokchining eng yaxshi yagona vaqtlari mos ravishda 5.00 soniya, 5.10 soniya, 5.20 soniya va 5.30 soniyani tashkil qiladi va ular mos ravishda beshinchi, oltinchi, ettinchi va sakkizinchi o'rinlarni egallaydi.
 - 9g) O'tish chegarasi Raundi - bu "X dan Eng Yaxshi" o'tish chegarasi bosqichi va o'tish chegarasi talabi (masalan, "2 dan Eng Yaxshi" o'tish talabi 2 daqiqadan qat'iy yaxshiroq) bo'lgan raunddir. Agar ishtirokchi o'tish chegarasi talabini o'tish chegarasi bosqichidagi kamida bitta urinishda bajarsa, ular qolgan urinishlar uchun munosib bo'ladi. O'tish chegarasi bosqichidagi urinishlar to'liq raund formatiga kiradi.
@@ -437,7 +437,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
 - 10c) Yechish oxirida boshqotirma har qanday yo'nalishda bo'lishi mumkin.
 - 10d) Boshqotirmaning barcha qismlari boshqotirmaga jismonan biriktirilgan va kerakli joylariga to'liq joylashtirilgan bo'lishi kerak. Istisno: qarang: [5b5 Qoidasi](regulations:regulation:5b5).
 - 10e) Boshqotirma, barcha rangli qismlar qayta yig'ilgan va barcha qismlar quyida ko'rsatilgan chegaralar doirasida tekislangan bo'lsa, yig'ilgan hisoblanadi:
-    - 10e1) Boshqotirmaning har bir ikkita qo'shni qismi (masalan, boshqotirmaning ikkita parallel, qo'shni qatlami) [10f Qoidasida](regulations:regulation:10f) tasvirlangan chegaradan ko'proq noto'g'ri tekislangan bo'lsa, boshqotirmani yig'ish uchun yana bitta qo'shimcha harakat talab qiladi deb hisoblanadi (qarang: [12-maqoladagi](regulations:article:12) "Tashqi Blok Burilish Metrikasi").
+    - 10e1) Boshqotirmaning har bir ikkita qo'shni qismi (masalan, boshqotirmaning ikkita parallel, qo'shni qatlami) [10f Qoidasida](regulations:regulation:10f) tasvirlangan chegaradan ko'proq noto'g'ri tekislangan bo'lsa, boshqotirmani yig'ish uchun yana bitta qo'shimcha harakat talab qiladi deb hisoblanadi (qarang: [12-bobdagi](regulations:article:12) "Tashqi Blok Burilish Metrikasi").
     - 10e1+) [ANIQLASH] Square-1 uchun, boshqotirmaning shakl o'zgartirish xususiyati tufayli, [10f4 Qoidasida](regulations:regulation:10f4) aniqlangan noto'g'ri tekislashlar uchun metrika, aralashtirish dasturi tomonidan qo'llaniladigan va [12c4 Qoidasida](regulations:regulation:12c4) aniqlangan notatsiya uchun metrikadan farq qiladi.
     - 10e2) Agar boshqotirmani yig'ilgan holatiga keltirish uchun boshqa harakatlar talab etilmasa, boshqotirma hech qanday jarimasiz yechilgan deb hisoblanadi.
     - 10e3) Agar bitta harakat talab etilsa, boshqotirma vaqt jazosi (+2 soniya jarima) bilan yig'ilgan deb hisoblanadi.
@@ -600,12 +600,12 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
         - A2a2) Agar Ishtirokchi Kutish Hududi ishlatilmayotgan bo'lsa, ishtirokchi raunddagi barcha urinishlarini tugatmagunicha o'zining tayinlangan yechish stantsiyasida qolishi kerak. Istisno: ishtirokchilar WCA Delegatining ruxsati bilan o'zlarining tayinlangan yechish stantsiyalarini tark etishlari mumkin. Jazo: WCA Delegatining ixtiyoriga ko'ra, qolgan urinishlarni diskvalifikatsiya qilish (DNF).
         - A2a3) Raundga chaqirilgandan so'ng, ishtirokchi o'z guruhidagi barcha ishtirokchilarning boshqa urinishlari qolmagunicha, agar WCA Delegati tomonidan ruxsat berilmasa, aralashtirish uchun ajratilgan hududga kirishga urinmasligi kerak.
         - A2a3+) [ESLATMA] Ishtirokchilarga, hatto barcha urinishlarini tugatgandan so'ng ham, agar WCA Delegati tomonidan ruxsat berilmasa, o'z guruhining aralashtirish ketma-ketliklarini ko'rishga ruxsat berilmasligi kerak (qarang: [4b2+ Qoidasi](regulations:regulation:4b2+)).
-    - A2b) Skrambler [4-maqola](regulations:article:4) Qoidalariga muvofiq boshqotirmani aralashtiradi.
+    - A2b) Skrambler [4-bob](regulations:article:4) Qoidalariga muvofiq boshqotirmani aralashtiradi.
         - A2b1) Square-1 uchun, tashkiliy guruh urinish boshlanishidan oldin tasodifiy harakatlarning qo'llanilishini oldini olish uchun boshqotirma ichiga yupqa narsa qo'yishni tatbiq qilishi mumkin. Agar ushbu narsalar ishlatilsa, tashkiliy guruh raund boshlanishidan oldin e'lon qilishi kerak.
     - A2c) Skrambler boshqotirmani aralashtirishni boshlaganidan so'ng, ishtirokchi tekshirish bosqichi boshlangunga qadar boshqotirmani ko'rmasligi kerak.
         - A2c1) Skrambler aralashtirilgan boshqotirmaning ustiga har qanday ishtirokchi yoki tomoshabin boshqotirmaning biron bir qismini ko'ra olmaydigan qilib qopqoq qo'yadi. Qopqoq urinish boshlangunga qadar boshqotirma ustida qoladi.
         - A2c1+) [ESLATMA] Ilgari, natija qog'ozlari boshqotirmani qoplash uchun ishlatilgan va ba'zi tomonlarini ochiq qoldirgan. Bu endi ruxsat etilmaydi.
-        - A2c2) Musobaqalashayotganda, ishtirokchilar boshqa ishtirokchining rasmiy urinishini tugatishini faol ravishda kuzatishga urinmasliklari kerak. Agar ishtirokchi boshqa ishtirokchining o'zi hali olmagan aralashtirishga urinishini kuzatsa, tegishli urinish DNF deb qayd etiladi. Istisno: bu jazo "Yuzma-yuz" raundidagi ishtirokchilarga qo'llanilmaydi (qarang: [I-maqola](regulations:article:I)).
+        - A2c2) Musobaqalashayotganda, ishtirokchilar boshqa ishtirokchining rasmiy urinishini tugatishini faol ravishda kuzatishga urinmasliklari kerak. Agar ishtirokchi boshqa ishtirokchining o'zi hali olmagan aralashtirishga urinishini kuzatsa, tegishli urinish DNF deb qayd etiladi. Istisno: bu jazo "Yuzma-yuz" raundidagi ishtirokchilarga qo'llanilmaydi (qarang: [I-bob](regulations:article:I)).
         - A2c2+) [ESLATMA] Agar ishtirokchi tasodifan o'zi hali olmagan aralashtirishni ko'rib qolsa, ishtirokchi o'z urinishi uchun o'sha aralashtirishni olmasligi kerak va uning o'rniga qo'shimcha urinish berilishi kerak.
     - A2d) Skramblerdan boshqotirmani olayotganda, hakam boshqotirmaning to'liq aralashtirilganligini ta'minlash uchun boshqotirmani qisqacha tekshiradi. Hakam har qanday xavotirni skramblerga bildiradi, u keyin batafsil tekshirishni o'tkazadi.
         - A2d1) Skrambler yoki vakolatli hakam aralashtirilgan boshqotirmani tekshirishi va to'g'ri raqamlangan aralashtirish ketma-ketligini qo'llaganligini va uning tasvirga mos kelishini tekshirganligini tasdiqlash uchun natija qog'oziga imzo chekishi kerak (qarang: [4g Qoidasi](regulations:regulation:4g)). Istisno: 5x5x5 Kub, 6x6x6 Kub, 7x7x7 Kub va Megaminx uchun skrambler kubning etarlicha aralashtirilganligini tasdiqlash uchun imzo chekishi mumkin (qarang: [4g1 Qoidasi](regulations:regulation:4g1)). Skrambler imzolari musobaqa davomida izchil bo'lishi va skramblerni aniqlashi kerak.
@@ -706,7 +706,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
 
 ## <article-B><blindfolded><blindfoldedsolving> B bob: Ko'zni yumgan holda yechish
 
-- B1) [A-maqolada](regulations:article:A) (Tezlikni yechish) tasvirlangan standart tezlikni yechish tartib-qoidalariga amal qilinadi. [A-maqoladagi](regulations:article:A) tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
+- B1) [A bobda](regulations:article:A) (Tezlikni yechish) tasvirlangan standart tezlikni yechish tartib-qoidalariga amal qilinadi. [A bobdagi](regulations:article:A) tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
 - B1+) [ESLATMA] Ishtirokchi o'xshash qismlarni ajratib turadigan teksturalar, belgilar yoki boshqa xususiyatlarga ega bo'lmagan Boshqotirmadan foydalanishi kerak (qarang: [3k Qoidasi](regulations:regulation:3k)). Bu Ko'r-ko'rona Yechish uchun alohida e'tibor berilishi kerak. Istisno: 3x3x3 Ko'r-ko'rona uchun, Boshqotirma [3l Qoidasi](regulations:regulation:3l) tomonidan ruxsat etilgan har qanday logotiplarga ega bo'lishi mumkin.
     - B1a) Tekshirish davri yo'q (ya'ni yechish urinish bilan bir vaqtda boshlanadi).
     - B1b) Ishtirokchi o'z ko'r-ko'rona bog'ichini ta'minlaydi.
@@ -747,7 +747,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
 
 ## <article-C><one-handed><onehandedsolving> C bob: Bir Qo'l bilan yechish
 
-- C1) [A-maqolada](regulations:article:A) (Tezlikni yechish) tasvirlangan standart tezlikni yechish tartib-qoidalariga amal qilinadi. [A-maqoladagi](regulations:article:A) tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
+- C1) [A bobda](regulations:article:A) (Tezlikni yechish) tasvirlangan standart tezlikni yechish tartib-qoidalariga amal qilinadi. [A bobdagi](regulations:article:A) tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
     - C1b) Yechish davomida ishtirokchi Boshqotirmani boshqarish uchun faqat bitta qo'ldan foydalanishi kerak. Jazo: urinishni diskvalifikatsiya qilish (DNF).
     - C1b+) [ANIQLASH] Ishtirokchi tekshirish vaqtida ikkala qo'lidan ham foydalanishi mumkin.
     - C1b++) [ANIQLASH] Ishtirokchidan bir xil raundning turli urinishlari uchun bir xil yechish qo'lidan foydalanish talab qilinmaydi.
@@ -792,7 +792,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
         - E2e1) WCA Delegati ishtirokchidan aralashtirish ketma-ketligidan qat'i nazar, o'z yechimidagi har bir harakatning maqsadini tushuntirishni so'rashi mumkin. Agar ishtirokchi asosli tushuntirish bera olmasa, urinish diskvalifikatsiya qilinadi (DNF).
 - E3) Ishtirokchi urinish davomida quyidagi narsalardan foydalanishi mumkin. Ruxsat etilmagan narsalardan foydalanish uchun jazo: urinishni diskvalifikatsiya qilish (DNF). Istisno: agar ishtirokchi ruxsat etilmagan narsalardan foydalanishdan hech qanday ustunlik olmasa, WCA Delegatining ixtiyoriga ko'ra, natija o'z kuchida qolishi mumkin.
     - E3a) Qog'oz (hakam tomonidan ta'minlanadi), yechim varag'i (hakam tomonidan ta'minlanadi), o'sha urinish uchun aralashtirish rasmi (bu qog'oz yoki yechim varag'iga kiritilgan bo'lishi mumkin) va qalamlar/qalamlar yoki shunga o'xshashlar (hakam tomonidan ta'minlanadi yoki ixtiyoriy ravishda o'zi ta'minlaydi).
-    - E3b) 3x3x3 Kublar (ko'pi bilan 3, o'zi ta'minlaydi), ular urinish boshlanishidan oldin [3-maqolada](regulations:article:3) tasvirlanganidek bo'lishi kerak.
+    - E3b) 3x3x3 Kublar (ko'pi bilan 3, o'zi ta'minlaydi), ular urinish boshlanishidan oldin [3 bobda](regulations:article:3) tasvirlanganidek bo'lishi kerak.
     - E3b+) [ANIQLASH] Boshqotirmalar urinish boshida yechilgan bo'lishi shart emas.
     - E3c) Stikerlar (o'zi ta'minlaydi).
     - E3d) O'tgan vaqtni kuzatib borish uchun sekundomer yoki soat (o'zi ta'minlaydi), agar WCA Delegati tomonidan tasdiqlangan bo'lsa.
@@ -810,7 +810,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
 
 ## <article-H><multiple-blindfolded><multipleblindfoldedsolving> H bob: Multi-Blaynd yo'nalish
 
-- H1) [B-maqolada](regulations:article:B) (Ko'r-ko'rona yechish) tasvirlangan standart ko'r-ko'rona yechish tartib-qoidalariga amal qilinadi. [B-maqoladagi](regulations:article:B) tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
+- H1) [B bobda](regulations:article:B) (Ko'r-ko'rona yechish) tasvirlangan standart ko'r-ko'rona yechish tartib-qoidalariga amal qilinadi. [B bobdagi](regulations:article:B) tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
 - H1+) [QO'SHIMCHA] Agar urinish davomida takroriy aralashtirishga ega Boshqotirma topilsa, WCA Delegatining ixtiyoriga ko'ra, Boshqotirma boshqa aralashtirish ketma-ketligi yordamida qayta aralashtirilishi mumkin.
     - H1a) Urinishdan oldin, ishtirokchi tashkiliy guruhga o'zi urinmoqchi bo'lgan Boshqotirmalar sonini (kamida 2) topshirishi kerak.
         - H1a1) Ishtirokchi o'z raqamini tashkiliy guruhga topshirgandan so'ng, Boshqotirmalar sonini o'zgartirishga ruxsat berilmaydi.
@@ -862,7 +862,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - I3d) Agar hech bir ishtirokchi yaxshiroq natijaga ega bo'lmasa, hech kim ochkoni yutmaydi.
     - I3e) Agar 7 ochkodan keyin hech bir ishtirokchi setni yutmagan bo'lsa, eng ko'p ochkoga ega ishtirokchi setni yutadi. Agar ikkala ishtirokchi ham bir xil miqdordagi ochkoga ega bo'lsa, setdagi eng yaxshi yagona natijaga ega ishtirokchi setni yutadi. Agar setda hech bir ishtirokchi eng yaxshi yagona natijaga ega bo'lmasa, matchdagi eng yaxshi yagona natijalar va keyin raunddagi yagona natijalar ko'rib chiqiladi. Agar kerak bo'lsa, ishtirokchilarning tartiblari yakuniy tay-breyk vazifasini bajaradi, bunda yuqori tartibli ishtirokchi setni yutadi.
 - I4) "Yuzma-yuz" tezlikni yechish tartib-qoidalari:
-    - I4a) [A-maqolada](regulations:article:A) tasvirlangan standart tezlikni yechish tartib-qoidalariga amal qilinadi. A-maqoladagi tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
+    - I4a) [A bobda](regulations:article:A) tasvirlangan standart tezlikni yechish tartib-qoidalariga amal qilinadi. A bobdagi tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
     - I4b) Aralashtirish:
         - I4b1) Matchdagi ishtirokchilar ochko uchun bir-birlari bilan bir xil aralashtirish ketma-ketliklaridan foydalanishlari kerak. Har bir ochko turli aralashtirish ketma-ketliklaridan foydalanishi va har bir match turli aralashtirish ketma-ketliklaridan foydalanishi kerak.
     - I4c) Tekshirish:
@@ -876,7 +876,7 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - I4d) Natijalarni qayd etish:
         - I4d1) Natijani qayd etishda, hakam natija qog'ozida ishtirokchi ochkoni yutganmi yoki yo'qotganmi yoki g'olib yo'qligini ham qayd etadi.
 - I5) "Yuzma-yuz" ko'r-ko'rona yechish tartib-qoidalari:
-    - I5a) Standart tezlikni yechish tartib-qoidalariga ([A-maqolada](regulations:article:A) tasvirlangan), ko'r-ko'rona yechish tartib-qoidalariga ([B-maqolada](regulations:article:B) tasvirlangan) va "Yuzma-yuz" tezlikni yechish tartib-qoidalariga ([I4 Qoidasida](regulations:regulation:I4) tasvirlangan) amal qilinadi. Tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
+    - I5a) Standart tezlikni yechish tartib-qoidalariga ([A bobda](regulations:article:A) tasvirlangan), ko'r-ko'rona yechish tartib-qoidalariga ([B bobda](regulations:article:B) tasvirlangan) va "Yuzma-yuz" tezlikni yechish tartib-qoidalariga ([I4 Qoidasida](regulations:regulation:I4) tasvirlangan) amal qilinadi. Tegishli tartib-qoidalarni bekor qiluvchi qo'shimcha Qoidalar quyida tasvirlangan.
     - I5b) Urinishni boshlash:
         - I5b1) Ikkala ishtirokchi ham yechish stantsiyasida bo'lganda va har bir hakam tayyor bo'lganda, diktor "TAYORMISIZ?" deb so'raydi.
         - I5b2) Ikkala ishtirokchi ham tayyorligini tasdiqlaganda yoki kamida 15 soniya o'tgach, diktor "3, 2, 1, GO" deb aytadi. Ishtirokchi shu paytda yechishni boshlashi kerak (qarang: [B2d Qoidasi](regulations:regulation:B2d)). Hakamning ixtiyoriga ko'ra, yechishni boshlashni qasddan kechiktirish uchun jazo: urinishni diskvalifikatsiya qilish (DNF).
