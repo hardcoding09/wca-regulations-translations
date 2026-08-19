@@ -486,35 +486,35 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - 11f2) Sekinlashtirilgan yoki kadrma-kadr tahlildan olingan dalillar faqat quyidagi qarorlarni qo'llab-quvvatlash uchun ishlatilishi mumkin:
         - 11f2a) Hakam yoki WCA Delegati tomonidan dastlab tayinlangan har qanday jazoning bekor qilinishi.
         - 11f2b) [A3c1 Qoidasi](regulations:regulation:A3c1), [A4b Qoidasi](regulations:regulation:A4b) yoki [A4b1 Qoidasi](regulations:regulation:A4b1) ga muvofiq jazo qo'llash.
-        - 11f2c) Aldashni tekshirish uchun (qarang: [2k Qoidasi](regulations:regulation:2k)).
-- 11g) WCA Delegati mansabdor shaxslar va ishtirokchilar uchun har qanday hodisa bo'yicha maslahat uchun Qoidalar mavjudligini ta'minlashi kerak (masalan, bosma, raqamli yoki internet orqali kirish mumkin).
+        - 11f2c) G'irromlikni tekshirish uchun (qarang: [2k Qoidasi](regulations:regulation:2k)).
+- 11g) WCA Delegati mansabdor shaxslar va ishtirokchilar uchun har qanday hodisa bo'yicha maslahat uchun qoidalar mavjudligini ta'minlashi kerak (masalan, bosma, raqamli yoki internet orqali kirish mumkin).
 - 11h) WCA Delegati [2k3 Qoidasini](regulations:regulation:2k3) jiddiy buzgan ishtirokchilardan, vaziyatning jiddiyligini va eng yaxshi harakat yo'nalishini hisobga olgan holda, musobaqa joyini tark etishni talab qilishi mumkin. Agar ishtirokchi buni rad etsa, ular WCAda intizomiy jazoga tortilishi mumkin.
-- 11i) Agar ishtirokchining Boshqotirmasi yechishni tugatgandan so'ng noto'g'ri aralashtirilganligi aniqlansa, quyidagi Qoidalar qo'llaniladi:
+- 11i) Agar ishtirokchining boshqotirmasi yechishni tugatgandan so'ng noto'g'ri aralashtirilganligi aniqlansa, quyidagi qoidalar qo'llaniladi:
     - 11i1) Quyidagi hollarda, ta'sirlangan urinish o'rniga qo'shimcha urinish berilishi kerak. Agar qo'shimcha urinish berilmasa, natija DNS deb hisoblanadi:
     - 11i1+) [TAVSIYA] Ushbu mezonlarga javob berishi kutilayotgan ishtirokchilarning aralashtirishlari yuborilishidan oldin ikkinchi skrambler tomonidan tekshirilishi kerak (qarang: [4g3 Qoidasi](regulations:regulation:4g3)).
-    - 11i1++) [TAVSIYA] Ushbu mezonlarga javob beradigan natijalar uchun, WCA Delegati musobaqa tugaguniga qadar, masalan, mavjud video dalillar bilan, Boshqotirmaning to'g'ri aralashtirilganligini qo'shimcha tekshirishga harakat qilishi kerak.
+    - 11i1++) [TAVSIYA] Ushbu mezonlarga javob beradigan natijalar uchun, WCA Delegati musobaqa tugaguniga qadar, masalan, mavjud video dalillar bilan, boshqotirmaning to'g'ri aralashtirilganligini qo'shimcha tekshirishga harakat qilishi kerak.
     - 11i1+++) [QO'SHIMCHA] Agar ushbu mezonlarga javob beradigan natijalarga ega ishtirokchilar tomonidan so'ralgan bo'lsa, WCA Delegati musobaqa tugaguniga qadar tegishli aralashtirish ketma-ketliklariga kirishni ta'minlashi kerak.
         - 11i1a) Shaxsiy natija mintaqaviy rekord yoki jahon reytingidagi eng yaxshi 50 ishtirokchi ichidagi shaxsiy rekorddir.
         - 11i1b) Natija uning bir qismi bo'lgan o'rtacha yoki o'rtacha qiymat mintaqaviy rekord yoki jahon reytingidagi eng yaxshi 50 ishtirokchi ichidagi shaxsiy rekordning bir qismidir.
-        - 11i1d) Natija Boshqotirmani [4b3 Qoidasida](regulations:regulation:4b3) aniqlangan chegaralardan kamroq harakatda yechish orqali erishilgan.
-        - 11i1e) [11i1a](regulations:regulation:11i1a) va [11i1b](regulations:regulation:11i1b) ga istisno: 5x5x5 Kub, 6x6x6 Kub, 7x7x7 Kub, Megaminx va 3x3x3 Ko'p Ko'r-ko'rona uchun, [11i2 Qoidasi](regulations:regulation:11i2) o'rniga qo'llaniladi.
-        - 11i1f) [11i1a](regulations:regulation:11i1a) va [11i1b](regulations:regulation:11i1b) ga istisno: Milliy Chempionat, Qit'a Chempionati yoki Jahon Chempionatining final raundida erishilgan natijalar uchun, agar ikkita skrambler Boshqotirmaning to'g'ri aralashtirilganligini tekshirgan va natija qog'oziga imzo chekkan bo'lsa, [11i2 Qoidasi](regulations:regulation:11i2) o'rniga qo'llaniladi (qarang: [4g3 Qoidasi](regulations:regulation:4g3)).
-    - 11i2) Boshqa barcha holatlar uchun, natija o'z kuchida qolishi mumkin. Istisno: WCA Delegati, agar bu sezilarli darajada adolatliroq natija beradi deb hisoblasa, o'z ixtiyoriga ko'ra qo'shimcha urinish berishi mumkin (masalan, olingan noto'g'ri aralashtirish juda oson bo'lgan va ishtirokchi yangi shaxsiy rekordga erishgan, noto'g'ri aralashtirish yo'nalishdagi podiumga ta'sir qilgan yoki Boshqotirma qasddan noto'g'ri aralashtirilgan).
+        - 11i1d) Natija boshqotirmani [4b3 Qoidasida](regulations:regulation:4b3) aniqlangan chegaralardan kamroq harakatda yechish orqali erishilgan.
+        - 11i1e) [11i1a](regulations:regulation:11i1a) va [11i1b](regulations:regulation:11i1b) ga istisno: 5x5x5 Kub, 6x6x6 Kub, 7x7x7 Kub, Megaminx va 3x3x3 Multi-Blaynd uchun, [11i2 Qoidasi](regulations:regulation:11i2) o'rniga qo'llaniladi.
+        - 11i1f) [11i1a](regulations:regulation:11i1a) va [11i1b](regulations:regulation:11i1b) ga istisno: Milliy Chempionat, Qit'a Chempionati yoki Jahon Chempionatining final raundida erishilgan natijalar uchun, agar ikkita skrambler boshqotirmaning to'g'ri aralashtirilganligini tekshirgan va natija qog'oziga imzo chekkan bo'lsa, [11i2 Qoidasi](regulations:regulation:11i2) o'rniga qo'llaniladi (qarang: [4g3 Qoidasi](regulations:regulation:4g3)).
+    - 11i2) Boshqa barcha holatlar uchun, natija o'z kuchida qolishi mumkin. Istisno: WCA Delegati, agar bu sezilarli darajada adolatliroq natija beradi deb hisoblasa, o'z ixtiyoriga ko'ra qo'shimcha urinish berishi mumkin (masalan, olingan noto'g'ri aralashtirish juda oson bo'lgan va ishtirokchi yangi shaxsiy rekordga erishgan, noto'g'ri aralashtirish yo'nalishdagi podiumga ta'sir qilgan yoki boshqotirma qasddan noto'g'ri aralashtirilgan).
     - 11i2+) [TAVSIYA] Agar WCA Delegati noto'g'ri aralashtirish asl aralashtirishga nisbatan sezilarli darajada kamroq adolatli natija berganmi yoki yo'qmi deb ishonchi komil bo'lmasa, vaqtinchalik qo'shimcha urinish berilishi kerak.
-    - 11i2++) [ESLATMA] Noto'g'ri aralashtirilgan Boshqotirmalarda erishilgan shaxsiy natijalarga ruxsat berilishi mumkin bo'lsa-da, WCA Delegati noto'g'ri aralashtirishlar odatiy holga aylanmasligini ta'minlashi kerak.
+    - 11i2++) [ESLATMA] Noto'g'ri aralashtirilgan boshqotirmalarda erishilgan shaxsiy natijalarga ruxsat berilishi mumkin bo'lsa-da, WCA Delegati noto'g'ri aralashtirishlar odatiy holga aylanmasligini ta'minlashi kerak.
         - 11i2a) Agar qo'shimcha urinish sezilarli darajada adolatliroq natija bersa, asl urinish yaroqsiz deb hisoblanadi (qarang: [9l Qoidasi](regulations:regulation:9l)).
         - 11i2b) Agar noto'g'ri aralashtirish sezilarli darajada adolatsiz natijaga olib kelgan bo'lsa va qo'shimcha urinish berilmasa (masalan, noto'g'ri aralashtirish musobaqadan keyin aniqlanganligi sababli), natija DNS deb hisoblanadi.
-- 11j) Agar ishtirokchiga o'zi allaqachon olgan aralashtirish ketma-ketligi noto'g'ri berilsa (ya'ni, takroriy aralashtirish), quyidagi Qoidalar qo'llaniladi:
+- 11j) Agar ishtirokchiga o'zi allaqachon olgan aralashtirish ketma-ketligi noto'g'ri berilsa (ya'ni, takroriy aralashtirish), quyidagi qoidalar qo'llaniladi:
     - 11j1) Agar ishtirokchi tekshirish vaqtida takroriy aralashtirish olganiga ishonsa, u Boshqotirmaga hech qanday harakat qo'llamagan holda urinishini to'xtatishi va WCA Delegatini chaqirishi kerak. Ishtirokchi noto'g'ri takroriy aralashtirish haqida xabar bergani uchun WCA Delegatining ixtiyoriga ko'ra, jazolanishi kerak emas.
     - 11j2) Agar xatolik guruh davomida aniqlansa, WCA Delegati ishtirokchiga to'g'ri aralashtirishni berishga harakat qilishi kerak. Agar WCA Delegati to'g'ri aralashtirish nima bo'lishi kerakligiga ishonchi komil bo'lmasa, qo'shimcha urinish berilishi mumkin.
-    - 11j3) Agar xatolik musobaqa davomida, lekin guruhdan keyin aniqlansa, etishmayotgan urinish qo'shimcha urinish bilan almashtirilishi kerak.
+    - 11j3) Agar xatolik musobaqa davomida, lekin guruhdan keyin aniqlansa, yetishmayotgan urinish qo'shimcha urinish bilan almashtirilishi kerak.
     - 11j3+) [ESLATMA] Qo'shimcha urinish uchun ishlatiladigan aralashtirish ketma-ketligi oldingi guruhdan olinmasligi kerak.
     - 11j4) Agar xatolik faqat musobaqadan keyin aniqlansa, natija DNS deb hisoblanadi.
-- 11k) "Yuzma-yuz" raundlari uchun (qarang: [I-maqola](regulations:article:I)), WCA Delegati har qanday hodisa uchun harakat yo'nalishini belgilashda formatning tabiatini hisobga olishi kerak.
+- 11k) "Yuzma-yuz" raundlari uchun (qarang: [I bob](regulations:article:I)), WCA Delegati har qanday hodisa uchun harakat yo'nalishini belgilashda formatning tabiatini hisobga olishi kerak.
     - 11k1) Agar WCA Delegati biror ishtirokchiga ochko uchun qo'shimcha urinish bersa, ikkala ishtirokchi ham qo'shimcha urinish olishlari kerak.
     - 11k2) WCA Delegati, agar hodisa qaysi ishtirokchi ochko yutishiga ta'sir qilmasa, qo'shimcha urinish bermasligi kerak.
     - 11k2+) [MISOL] Agar Ishtirokchi A o'z urinishini tugatsa, keyin chalg'ituvchi shovqin Ishtirokchi B ga ta'sir qilsa, WCA Delegati qo'shimcha urinish bermasligi kerak, chunki Ishtirokchi A ochkoni allaqachon yutgan edi.
-- 11l) "Yuzma-yuz" raundlari uchun, har qanday hodisaning hal etilishi, ochkoni kim yutganini ANIQLASH maqsadida, match tugallanganda yakuniy hisoblanadi. Istisno: aldash yoki firibgarlik.
+- 11l) "Yuzma-yuz" raundlari uchun, har qanday hodisaning hal etilishi, ochkoni kim yutganini aniqlash maqsadida, match tugallanganda yakuniy hisoblanadi. Istisno: g'irromlik yoki firibgarlik.
     - 11l1) Urinish natijasi keyinchalik o'zgartirilishi mumkin, lekin bu ochko g'olibini o'zgartirmaydi.
 
 
