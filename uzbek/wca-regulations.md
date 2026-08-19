@@ -16,6 +16,7 @@ Delegat - WCA rasmiy vakili;
 Skrambler - boshqotirmani aralashtiradigan odam;
 Skrambl - boshqotirmaning aralashgan holati;
 3x3x3 Multi-Blaynd (Multi-Blind) - bir nechta 3x3x3 kubni uzog'i bilan 1soat ichida ko'zni yumgan holda yig'ish yo'nalishi;
+Notatsiya — Boshqotirma aylanmalari va harakatlarini ifodalovchi xalqaro harfiy va ramziy belgilar tizimi.
 
 Tarjima qildi va tahrirladi: [Islombek Azimov](https://worldcubeassociation.org/persons/2022AZIM02)
 
@@ -541,15 +542,15 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
 - 12c) Square-1 uchun notatsiya:
     - 12c1) Harakatlar ekvatorial qatlamning ikkita eng kichik yuzasidan biri old yuzning chap tomonida bo'lgan holda qo'llaniladi.
     - 12c2) (X, Y) degani: yuqori qatlamni X marta 30 daraja soat yo'nalishi bo'yicha burish, pastki qatlamni Y marta 30 daraja soat yo'nalishi bo'yicha burish. X va Y -5 dan 6 gacha bo'lgan butun sonlar bo'lishi kerak va ikkalasi ham 0 ga teng bo'lishi mumkin emas.
-    - 12c3) "/" degani: Boshqotirmaning o'ng yarmini 180 daraja burish.
+    - 12c3) "/" degani: boshqotirmaning o'ng yarmini 180 daraja burish.
     - 12c4) Square-1 uchun metrika: (X, Y) bitta harakat deb hisoblanadi, "/" bitta harakat deb hisoblanadi.
 - 12d) Megaminx uchun notatsiya (faqat aralashtirish notatsiyasi):
     - 12d1) Yuz Harakatlari:
         - 12d1a) Soat yo'nalishi bo'yicha, 72 daraja: U (yuqori yuz).
         - 12d1b) Soat yo'nalishiga qarshi, 72 daraja: U' (yuqori yuz).
-    - 12d2) Boshqa harakatlar Boshqotirmaning yuqori chap qismidagi 3 ta qismni mahkamlangan holda qo'llaniladi:
-        - 12d2c) Boshqotirmaning yuqori chap uchta qismi qatlamidan tashqari butun Boshqotirmaning soat yo'nalishi bo'yicha 144 daraja burilishi: R++ (vertikal qatlamlar), D++ (gorizontal qatlamlar).
-        - 12d2d) Boshqotirmaning yuqori chap uchta qismi qatlamidan tashqari butun Boshqotirmaning soat yo'nalishiga qarshi 144 daraja burilishi: R-- (vertikal qatlamlar), D-- (gorizontal qatlamlar).
+    - 12d2) Boshqa harakatlar boshqotirmaning yuqori chap qismidagi 3 ta qismni mahkamlangan holda qo'llaniladi:
+        - 12d2c) Boshqotirmaning yuqori chap uchta qismi qatlamidan tashqari butun boshqotirmaning soat yo'nalishi bo'yicha 144 daraja burilishi: R++ (vertikal qatlamlar), D++ (gorizontal qatlamlar).
+        - 12d2d) Boshqotirmaning yuqori chap uchta qismi qatlamidan tashqari butun boshqotirmaning soat yo'nalishiga qarshi 144 daraja burilishi: R-- (vertikal qatlamlar), D-- (gorizontal qatlamlar).
 - 12e) Pyraminx uchun notatsiya:
     - 12e1) Boshqotirma pastki yuzi butunlay gorizontal va old yuzi Pyraminxni ushlab turgan shaxsga qaragan holda yo'naltiriladi.
     - 12e2) Soat yo'nalishi bo'yicha, 120 daraja: U (yuqori 2 qatlam), L (chap 2 qatlam), R (o'ng 2 qatlam), B (orqa 2 qatlam), u (yuqori uch), l (chap uch), r (o'ng uch), b (orqa uch).
@@ -564,8 +565,8 @@ Eslatma: Qoidalar o'chirilganda, maqola va qoida raqamlari qayta tayinlanmaganli
     - 12h1) Boshqotirma uchta yuzi to'liq ko'rinadigan, yuqori yuzi tepada bo'lgan holda yo'naltiriladi.
     - 12h2) Soat yo'nalishi bo'yicha, 120 daraja: R (eng uzoq ko'rinadigan pastki-o'ng uch atrofidagi qatlam), U (eng uzoq ko'rinadigan yuqori uch atrofidagi qatlam), L (eng uzoq ko'rinadigan pastki-chap uch atrofidagi qatlam), B (eng uzoq ko'rinmaydigan orqa uch atrofidagi qatlam).
     - 12h3) Soat yo'nalishiga qarshi, 120 daraja: R' (eng uzoq ko'rinadigan pastki-o'ng uch atrofidagi qatlam), U' (eng uzoq ko'rinadigan yuqori uch atrofidagi qatlam), L' (eng uzoq ko'rinadigan pastki-chap uch atrofidagi qatlam), B' (eng uzoq ko'rinmaydigan orqa uch atrofidagi qatlam).
-- 12i) Ta'rif: Harakat - bu yuqorida aniqlangan notatsiya bo'yicha Boshqotirma holatidagi har qanday o'zgarish, shu jumladan [10f Qoidasida](regulations:regulation:10f) tasvirlangan chegaralardan tashqaridagi noto'g'ri tekislashlar.
-- 12i+) [ANIQLASH] Aylanishlar Boshqotirma holatini o'zgartirmaydi.
+- 12i) Ta'rif: Harakat - bu yuqorida aniqlangan notatsiya bo'yicha boshqotirma holatidagi har qanday o'zgarish, shu jumladan [10f Qoidasida](regulations:regulation:10f) tasvirlangan chegaralardan tashqaridagi noto'g'ri tekislashlar.
+- 12i+) [ANIQLASH] Aylanishlar boshqotirma holatini o'zgartirmaydi.
     - 12i1) Istisno: Clock uchun, faqat ichki soat yuzlari holatining o'zgarishi harakat deb hisoblanadi. Pinlar holatining o'zgarishi harakat deb hisoblanmaydi.
 
 
