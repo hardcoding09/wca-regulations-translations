@@ -8,7 +8,7 @@ for file in `git diff --name-only thewca/master`; do
   fi
 done
 
-LANGUAGES=`wrc-languages`
+LANGUAGES="`wrc-languages`, uzbek"
 echo "================================="
 mkdir "build"
 for l in $LANGUAGES; do
