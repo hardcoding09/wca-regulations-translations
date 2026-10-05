@@ -157,7 +157,7 @@ Eslatma: Qoidalar o'chirilganda, bob va qoida raqamlari qayta tayinlanmaganligi 
 - 2s++) [MISOL] Holatlari (masalan, diniy) muayyan sana yoki vaqtda musobaqalashishga ruxsat bermaydigan ishtirokchilarga WCA Delegatining ixtiyoriga ko'ra boshqa vaqtda musobaqalashishga ruxsat berilishi mumkin. WCA Delegati bunday so'rovlarni ko'rib chiqishda musobaqa resurslarining mavjudligini hisobga olishi kerak. Bu keyingi raund(lar)da oldingi raund(lar) tugamaguncha vaqtinchalik musobaqalashish imkoniyatini o'z ichiga oladi. Ishtirokchilarga mavjud musobaqa jadvalining bir qismi bo'lmagan yoki unga bevosita qo'shni bo'lmagan vaqt yoki sanada musobaqalashishga ruxsat berilmasligi kerak. Ishtirokchilarga musobaqa joyidan tashqarida musobaqalashishga ruxsat berilmasligi kerak.
 - 2s+++) [MISOL] Taymerni ishga tushirish uchun qo'llaridan birini ishlata olmaydigan ishtirokchi taymerni ishga tushirish va to'xtatishda hakamdan yordam olishi mumkin yoki eshita olmaydigan ishtirokchi tekshirish haqidagi ogohlantirishlarni boshqa usulda olishi mumkin.
     - 2s1) Muntazam musobaqa tartib-qoidalariga rioya qilish imkonsiz bo'lgan holatlarga ega ishtirokchilar maxsus imkoniyatlarga ega bo'lishi mumkin. Bunday holatlar qo'llanilishidan oldin WCA Qoidalar Qo'mitasiga murojaat qilinishi kerak.
-    - 2s1+) [MISOL] Bunday imkoniyatlarga misollar: ko'r ishtirokchining 3x3x3 Bir Qo'llab musobaqasida qismlarni his qilish uchun ikkinchi qo'ldan foydalanishi yoki 3x3x3 Ko'zni Bog'lagan musobaqasida yodlash bosqichida maxsus qismlarga ega ikkinchi boshqotirmadan foydalanishi.
+    - 2s1+) [MISOL] Bunday imkoniyatlarga misollar: ko'r ishtirokchining 3x3x3 Bir Qo'lda musobaqasida qismlarni his qilish uchun ikkinchi qo'ldan foydalanishi yoki 3x3x3 Ko'zni Bog'lagan musobaqasida yodlash bosqichida maxsus qismlarga ega ikkinchi boshqotirmadan foydalanishi.
 - 2u) Ishtirokchilar urinish uchun chaqirilganda hozir bo'lishlari va musobaqalashishga tayyor bo'lishlari kerak. Jazo: yo'nalishdan diskvalifikatsiya qilish.
     - 2u1) Istisno: shaxsiy jadval bo'yicha urinishga (masalan, 3x3x3 Minimal Harakatlar urinishi, 3x3x3 Ko'p Ko'r-ko'rona urinishi) o'z vaqtida kelmagan ishtirokchi WCA Delegatining ixtiyoriga ko'ra, ushbu urinishdan voz kechgan (DNS) deb hisoblanishi mumkin.
     - 2u1+) [QO'SHIMCHA] Ishtirokchi WCA Delegatining ixtiyoriga ko'ra musobaqalashishi mumkin. WCA Delegati bunga ruxsat berishning adolatliligini sinchkovlik bilan ko'rib chiqishi kerak.
@@ -317,7 +317,7 @@ Eslatma: Qoidalar o'chirilganda, bob va qoida raqamlari qayta tayinlanmaganligi 
 - 9a) WCA boshqotirmalar qismlarini burish orqali boshqariladigan, odatda "burma boshqotirmalar" deb nomlanuvchi mexanik boshqotirmalar uchun musobaqalarni tartibga soladi.
 - 9b) WCAning rasmiy yo'nalishlari:
 - 9b++) [QO'SHIMCHA] [9b Qoidasida](regulations:regulation:9b) ko'rsatilganlardan tashqari yo'nalishlar musobaqa davomida o'tkazilishi mumkin, lekin ular norasmiy hisoblanadi va shuning uchun musobaqaning rasmiy natijalariga kiritilmaydi.
-    - 9b1) 3x3x3 Kub, 2x2x2 Kub, 4x4x4 Kub, 5x5x5 Kub, 3x3x3 Bir Qo'l, Clock, Megaminx, Pyraminx, Skewb va Square-1.
+    - 9b1) 3x3x3 Kub, 2x2x2 Kub, 4x4x4 Kub, 5x5x5 Kub, 3x3x3 Bir Qo'lda, Clock, Megaminx, Pyraminx, Skewb va Square-1.
         - 9b1a) Ushbu yo'nalishlar uchun to'liq raund formati: "5 dan O'rtacha".
         - 9b1b) Ushbu yo'nalishlar uchun o'tish chegarasi formati: "5 dan O'rtacha" uchun "2 dan Eng Yaxshi" o'tish chegarasi bosqichi.
     - 9b2) 6x6x6 Kub va 7x7x7 Kub.
@@ -336,7 +336,7 @@ Eslatma: Qoidalar o'chirilganda, bob va qoida raqamlari qayta tayinlanmaganligi 
         - 9b6a) Ushbu yo'nalishlar uchun to'liq raund formati: "3 dan Eng Yaxshi".
         - 9b6b) Ushbu yo'nalishlar uchun, WCA musobaqa formatidan tashqari, "3 dan O'rtacha" reytinglari va rekordlarini ham tan oladi. "3 dan O'rtacha" statistikasi ishtirokchining "3 dan Eng Yaxshi" raunddagi reytingiga ta'sir qilmaydi, bu eng yaxshi natijaga asoslanadi (qarang: [9f6 Qoidasi](regulations:regulation:9f6) va [9f12 Qoidasi](regulations:regulation:9f12)).
     - 9b7) "Yuzma-yuz" formati (qarang: [I bob](regulations:article:I)) quyidagicha mavjud:
-        - 9b7a) "Yuzma-yuz" formati quyidagi yo'nalishlar uchun mavjud: 3x3x3 Kub, 4x4x4 Kub, 3x3x3 Ko'zni bog'lagan holda va 3x3x3 Bir Qo'l.
+        - 9b7a) "Yuzma-yuz" formati quyidagi yo'nalishlar uchun mavjud: 3x3x3 Kub, 4x4x4 Kub, 3x3x3 Ko'zni bog'lagan holda va 3x3x3 Bir Qo'lda.
         - 9b7b) "Yuzma-yuz" formatidan faqat yo'nalishning final raundi uchun foydalanish mumkin.
 - 9f) Raundning natijalari quyidagicha o'lchanadi:
     - 9f1) 3x3x3 Multi-Blaynd dan tashqari, 10 daqiqadan kam bo'lgan barcha vaqtli natijalar yuzdan bir soniyagacha o'lchanadi va yaxlitlanadi. 10 daqiqadan kam bo'lgan barcha vaqtli o'rtacha va o'rtacha qiymatlar yuzdan bir soniyagacha o'lchanadi va eng yaqin yuzdan bir soniyaga yaxlitlanadi.
@@ -651,7 +651,7 @@ Eslatma: Qoidalar o'chirilganda, bob va qoida raqamlari qayta tayinlanmaganligi 
 - A5) Yechish davomida:
     - A5a) Boshqotirmani tekshirish yoki yechish vaqtida ishtirokchi hakam yoki WCA Delegatidan boshqa hech kim bilan muloqot qilmasligi kerak. Jazo: urinishni diskvalifikatsiya qilish (DNF). Istisno: Agar ishtirokchi hakam yoki WCA Delegatidan boshqa hech kim bilan muloqot qilishdan ustunlik olmasa, WCA Delegatining ixtiyoriga ko'ra, natija o'z kuchida qolishi mumkin.
     - A5b) Boshqotirmani tekshirish yoki yechish vaqtida ishtirokchi yuzadan boshqa (shuningdek, qarang: [2i Qoidasi](regulations:regulation:2i)) hech kimdan yoki hech qanday narsadan boshqotirmani yechishda yordam olmasligi kerak. Jazo: urinishni diskvalifikatsiya qilish (DNF).
-    - A5b+) [ANIQLASH] Boshqotirmani tekshirish yoki yechish vaqtida ishtirokchi boshqotirmaga tanasining istalgan qismi bilan tegishi mumkin. Istisno: 3x3x3 Bir Qo'llab (qarang: [C1b Qoidasi](regulations:regulation:C1b)).
+    - A5b+) [ANIQLASH] Boshqotirmani tekshirish yoki yechish vaqtida ishtirokchi boshqotirmaga tanasining istalgan qismi bilan tegishi mumkin. Istisno: 3x3x3 Bir Qo'lda (qarang: [C1b Qoidasi](regulations:regulation:C1b)).
     - A5b++) [ANIQLASH] Agar ishtirokchi boshqotirmaining bir qismi ochilib chiqsa yoki ajralib qolsa (qarang: [5a Qoidasi](regulations:regulation:5a)), ishtirokchi qismni olish yoki topishda yordam so'ramasligi kerak va hakam boshqalarning yordam berishiga yo'l qo'ymaslikka harakat qilishi kerak. Agar kimdir ishtirokchi uchun ochilgan qismni ko'tarib olsa, hakam yoki ishtirokchi undan uni yechish stantsiyasiga qo'yishni va boshqa yordam bermaslikni so'rashi mumkin.
     - A5b+++) [ANIQLASH] WCA Delegati ishtirokchiga faqat kimdir uning ochilgan yoki ajralgan qismini ko'tarib olganligi sababli qo'shimcha urinish bermasligi kerak.
     - A5c) Ishtirokchi boshqotirmani boshqarishga yordam berish uchun uni yuzaga qarshi ushlab turishi mumkin (qarang: [7f1d Qoidasi](regulations:regulation:7f1d)).
